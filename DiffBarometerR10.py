@@ -116,7 +116,7 @@ print("Running...") #note that program is active
 print (time.localtime())
 print (time.gmtime())
 
-"""
+""" <-remnant code from old led only version
 Pin2=pin2.value(1)
 Pin3=pin3.value(1)
 Pin4=pin4.value(1)
